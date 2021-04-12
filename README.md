@@ -1,1 +1,1 @@
-# kaggle
+# Titanic comp Kaggle
